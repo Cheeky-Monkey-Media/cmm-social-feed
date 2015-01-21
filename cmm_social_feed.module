@@ -1,0 +1,14 @@
+<?php
+/**
+ * @file
+ * Code for the CMM Social Feed feature.
+ */
+
+include_once 'cmm_social_feed.features.inc';
+
+/**
+ * Implementation of hook_init().
+ */
+function cmm_social_feed_init() {
+  drupal_add_css(drupal_get_path('module', 'cmm_social_feed') .'/cmm_social_feed.css');
+}
