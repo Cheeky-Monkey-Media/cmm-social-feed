@@ -1,5 +1,5 @@
 # cmm-social-feed
-Provides a drupal social feed to post content to social networks.
+Provides a drupal social feed to post content to social networks. The code is based on drupal 7.
 
 This code is featured in our company blog here: http://cheekymonkeymedia.ca/blog/drupal-planet/how-automatically-send-your-blog-posts-social-networks
 
